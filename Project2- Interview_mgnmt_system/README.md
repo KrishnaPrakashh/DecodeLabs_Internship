@@ -56,6 +56,21 @@ This project demonstrates full-stack web development concepts including frontend
 
 * JSON File Storage
 
+  The application currently uses JavaScript data files for temporary storage:
+  
+  ```text
+  data/
+  ├── application.js
+  └── interviews.js
+  ```
+  
+  Data is maintained in memory during server execution, enabling simple CRUD operations without requiring a database.
+  
+  **Limitation:** Data is reset whenever the server restarts.
+  
+  **Future Enhancement:** Implement persistent storage using JSON files or MongoDB.
+  
+
 ### Version Control
 
 * Git
