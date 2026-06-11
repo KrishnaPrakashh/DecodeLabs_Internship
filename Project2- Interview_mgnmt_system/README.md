@@ -192,19 +192,6 @@ http://localhost:5000
 
 ---
 
-## Screenshots
-
-Add screenshots of the following pages:
-
-* Home Page
-* Apply Job Page
-* Candidate Status Page
-* Manage Applications Page
-* Schedule Interview Page
-* Candidate Details Page
-
----
-
 ## Future Enhancements
 
 * Database Integration (MongoDB/MySQL)
